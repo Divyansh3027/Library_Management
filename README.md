@@ -13,7 +13,7 @@ ____
 # Run
 ____[Python]____
     
-&emsp;++++ ____Compile____
+&emsp; ____Compile____
 
 &emsp;&emsp; Run ___main.py___ through python.
 
