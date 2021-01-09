@@ -1,7 +1,7 @@
 import db
 import time
-
-print(
+if __name__ == '__main__':
+    print(
     '''
             +--------------------+
             |     Welcome to     |
@@ -69,7 +69,8 @@ def controll(i):
 
 #-----------------------------------
 
-while True:
+
+while __name__ == '__main__':
     print(
         '''
     +  --------------------------  +
